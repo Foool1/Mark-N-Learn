@@ -9,25 +9,25 @@ Aplikacja umożliwia użytkownikowi tłumaczenie słów lub zdań z napisów wy�
 - Ludzie z całego świata chcący poprawić swój obcy język
 
 # Główne funkcje:
-- Tłumaczenie słów/zdań z napisów na wybrany język.
--Zapisywanie słów/zdań w bazie użytkownika.
+- Tłumaczenie słów/zdań z napisów na wybrany język,
+- Zapisywanie słów/zdań w bazie użytkownika,
 - Tworzenie zadań/fiszek ze słówek.
 
 
 # Funkcje poboczne:
--  Zdobywanie poziomu w zależności od nauczonych słówek
-- Słówka po nauczeniu wracają do puli na przypomnienie po jakimś czasie
-- Ranking użytkowników w zależności od nauczonych słówek.
-- Osiągnięcia
-- Streak ( Po zaznaczeniu min. 20 słówek)
+-  Zdobywanie poziomu w zależności od nauczonych słówek,
+- Słówka po nauczeniu wracają do puli na przypomnienie po jakimś czasie,
+- Ranking użytkowników w zależności od nauczonych słówek,
+- Osiągnięcia,
+- Streak ( Po zaznaczeniu min. 20 słówek),
 - Możliwość zeskanowania max 20 słówek dziennie w darmowej wersji, po zakupieniu subskrypcji można powyżej 20 słówek oraz inne dodatkowe opcje stworzone w przyszłości.
 
 
 # Platforma docelowa: 
-Aplikacja Webowa
-Aplikacja na platformy Windows
+- Aplikacja Webowa,
+- Aplikacja na platformy Windows
                                
 # Technologie:
-React
-Django
-Tailwind
+- React, 
+- Django, 
+- Tailwind, 
