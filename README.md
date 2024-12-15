@@ -20,11 +20,6 @@ Aplikacja umożliwia użytkownikowi tłumaczenie słów lub zdań z napisów wy�
    ```bash
    pip install -r requirements.txt
    ```
-
-5. Zainstaluj projekt w trybie edytowalnym:
-   ```bash
-   pip install -e .
-   ```
 5. Aby uruchomić projekt:
 
    ```bash
