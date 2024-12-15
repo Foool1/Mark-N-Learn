@@ -7,17 +7,25 @@ Aplikacja umożliwia użytkownikowi tłumaczenie słów lub zdań z napisów wy�
 
 1. Przejdź do katalogu projektu.
 
-2. Aktywuj wirtualne środowisko:
+2. Tworzenie wirtualnego srodowiska:
+   ```bash
+   python3 -m venv venv
+   ```
+3. Aktywowanie wirtualne środowisko:
 
    - Linux/macOS: source venv/bin/activate
    - Windows: venv\Scripts\activate
 
-3. Zainstaluj plik requirements.txt:
+4. Zainstaluj plik requirements.txt:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Aby uruchomić projekt:
+5. Zainstaluj projekt w trybie edytowalnym:
+   ```bash
+   pip install -e .
+   ```
+5. Aby uruchomić projekt:
 
    ```bash
    python manage.py runserver
