@@ -23,5 +23,5 @@ Aplikacja umożliwia użytkownikowi tłumaczenie słów lub zdań z napisów wy�
 5. Aby uruchomić projekt:
 
    ```bash
-   python manage.py runserver
+   python3 manage.py runserver
    ```
